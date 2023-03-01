@@ -11,4 +11,6 @@ Then we have used central limit theorm to know wether the data is in normal dist
 
 Also, we have used Maximum Liklihood Estimator to check the best distribution that fits the data the best.
 
+We have also done some visualization using power BI to make the analysis even better.
+
 Finally, conclusions and predictions.
